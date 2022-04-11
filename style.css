@@ -22,10 +22,10 @@
 
 #blur-area {
   position: absolute;
-  width: 100vw;
-  height: 100vh;
-  left: 0;
-  top: 0;
+  width: 200vw;
+  height: 200vh;
+  left: -100vw;
+  top: -100vh;
   -webkit-backdrop-filter: blur(15px);
   backdrop-filter: blur(15px);
   z-index: 1;
