@@ -39,4 +39,9 @@ nav {
   justify-content: space-between;
 }
 
+.logo {
+  width: 120px;
+  cursor: pointer;
+}
+
 }
