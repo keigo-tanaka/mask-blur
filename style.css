@@ -31,6 +31,7 @@
   z-index: 1;
   -webkit-mask-image: radial-gradient(150px at 50% 50%, transparent 100%, black 100%);;
   mask-image: radial-gradient(150px at 50% 50%, transparent 100%, black 100%);
+  mix-blend-mode: hue;
 }
 
 nav {
